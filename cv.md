@@ -1,10 +1,9 @@
-#Meleshko Nikita
+# Meleshko Nikita
 
-##Junior Frontend Developer
+## Junior Frontend Developer
 
-===
 
-##Contact information:
+## Contact information:
 
 **Phone:** +375(29)342-91-83
 
@@ -16,15 +15,15 @@
 
 [LinkedIn](https://www.linkedin.com/in/nikita-meleshko-9b7498262/)
 
-===
 
-##Briefly About Myself:
+
+## Briefly About Myself:
 
 I strive to become a full-fledged Frontend developer. Easy to learn and hardworking. I really like to learn new things for me, this is the meaning of my life.
 
-===
 
-##Skills:
+
+## Skills:
 
 * HTML5, CSS3
 
@@ -36,9 +35,9 @@ I strive to become a full-fledged Frontend developer. Easy to learn and hardwork
 
 * Adobe Photoshop
 
-===
 
-##Code example:
+
+## Code example:
 
 **Create Phone Number Cata from CODEWARS:** Write a function that accepts an array of 10 integers (between 0 and 9), that returns a string of those numbers in the form of a phone number.
 
@@ -70,9 +69,9 @@ function isPangram(string){
 }
 ```
 
-===
 
-##Courses:
+
+## Courses:
 
 * Stepik corse "HTML and CSS"
 
@@ -80,9 +79,9 @@ function isPangram(string){
 
 * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
-===
 
-##Languages:
+
+## Languages:
 
 * English - B1
 
